@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\C#\Calculator\CalculatorProject\bin\Debug\netcoreapp3.1\CalculatorProject.exe
+C:\Users\ASUS\Desktop\C#\Calculator\CalculatorProject\bin\Debug\netcoreapp3.1\CalculatorProject.deps.json
+C:\Users\ASUS\Desktop\C#\Calculator\CalculatorProject\bin\Debug\netcoreapp3.1\CalculatorProject.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\Calculator\CalculatorProject\bin\Debug\netcoreapp3.1\CalculatorProject.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C#\Calculator\CalculatorProject\bin\Debug\netcoreapp3.1\CalculatorProject.dll
+C:\Users\ASUS\Desktop\C#\Calculator\CalculatorProject\bin\Debug\netcoreapp3.1\CalculatorProject.pdb
+C:\Users\ASUS\Desktop\C#\Calculator\CalculatorProject\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\ASUS\Desktop\C#\Calculator\CalculatorProject\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\ASUS\Desktop\C#\Calculator\CalculatorProject\obj\Debug\netcoreapp3.1\CalculatorProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\Calculator\CalculatorProject\obj\Debug\netcoreapp3.1\CalculatorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C#\Calculator\CalculatorProject\obj\Debug\netcoreapp3.1\CalculatorProject.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C#\Calculator\CalculatorProject\obj\Debug\netcoreapp3.1\CalculatorProject.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C#\Calculator\CalculatorProject\obj\Debug\netcoreapp3.1\CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Calculator\CalculatorProject\obj\Debug\netcoreapp3.1\CalculatorProject.csproj.CopyComplete
+C:\Users\ASUS\Desktop\C#\Calculator\CalculatorProject\obj\Debug\netcoreapp3.1\CalculatorProject.dll
+C:\Users\ASUS\Desktop\C#\Calculator\CalculatorProject\obj\Debug\netcoreapp3.1\CalculatorProject.pdb
+C:\Users\ASUS\Desktop\C#\Calculator\CalculatorProject\obj\Debug\netcoreapp3.1\CalculatorProject.genruntimeconfig.cache
