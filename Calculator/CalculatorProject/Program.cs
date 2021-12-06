@@ -7,8 +7,8 @@ namespace CalculatorProject
     {
         static void Main(string[] args)
         {
-            Calculate setValues = new Calculate();
-            setValues.CalcMethod();
+            Calculate operations = new Calculate();
+            operations.CalcMethod();
         }
     }
 }
